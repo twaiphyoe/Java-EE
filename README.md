@@ -1,2 +1,2 @@
-# Java-EE
-Java EE Repo
+# Java-FX
+Java FX Repo
